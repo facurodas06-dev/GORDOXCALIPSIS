@@ -577,8 +577,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1947,
-            "MD5": "1d0adbc709520290c36b2ad18ebc0f22",
+            "size": 1948,
+            "MD5": "71966d9e811496531f04dc5f4c444b03",
             "path": "config/fancymenu/options.txt",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/options.txt"
           }
