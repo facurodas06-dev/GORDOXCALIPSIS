@@ -353,6 +353,50 @@
           }
         },
         {
+          "id": "config/fancymenu/assets/back.png",
+          "name": "back.png",
+          "type": "File",
+          "artifact": {
+            "size": 122356,
+            "MD5": "ed42ee245481aed11f68e6b165c802f3",
+            "path": "config/fancymenu/assets/back.png",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/assets/back.png"
+          }
+        },
+        {
+          "id": "config/fancymenu/assets/back1.png",
+          "name": "back1.png",
+          "type": "File",
+          "artifact": {
+            "size": 108133,
+            "MD5": "35a065341380ded5796be72842f6cfd6",
+            "path": "config/fancymenu/assets/back1.png",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/assets/back1.png"
+          }
+        },
+        {
+          "id": "config/fancymenu/assets/entry.png",
+          "name": "entry.png",
+          "type": "File",
+          "artifact": {
+            "size": 107104,
+            "MD5": "60802e33d3088bf4c8031443267de55e",
+            "path": "config/fancymenu/assets/entry.png",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/assets/entry.png"
+          }
+        },
+        {
+          "id": "config/fancymenu/assets/entry1.png",
+          "name": "entry1.png",
+          "type": "File",
+          "artifact": {
+            "size": 115682,
+            "MD5": "2b2e65739cc8eaba839e3707654a2302",
+            "path": "config/fancymenu/assets/entry1.png",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/assets/entry1.png"
+          }
+        },
+        {
           "id": "config/fancymenu/assets/fondo.gif",
           "name": "fondo.gif",
           "type": "File",
@@ -445,10 +489,32 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 76,
-            "MD5": "8cd335741f1acd023a5203836fb9b944",
+            "size": 255,
+            "MD5": "f3bbf9cf65918e3dde11143a91da55c3",
             "path": "config/fancymenu/customizablemenus.txt",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+          "name": "join_multiplayer_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 22125,
+            "MD5": "cc0040e0cf38acdf3335e06b74af3560",
+            "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/pause_screen_layout.txt",
+          "name": "pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 21363,
+            "MD5": "bad943c1497a3aab18c5a9d274da7fd5",
+            "path": "config/fancymenu/customization/pause_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
         {
@@ -500,8 +566,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1948,
-            "MD5": "71966d9e811496531f04dc5f4c444b03",
+            "size": 1947,
+            "MD5": "1d0adbc709520290c36b2ad18ebc0f22",
             "path": "config/fancymenu/options.txt",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/options.txt"
           }
