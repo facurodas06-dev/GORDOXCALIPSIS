@@ -23,6 +23,17 @@
           }
         },
         {
+          "id": "generated.forgemod:architectury-9.2.14-forge:1.0.0@jar",
+          "name": "architectury-9.2.14-forge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
+            "path": "mods/architectury-9.2.14-forge.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/architectury-9.2.14-forge.jar"
+          }
+        },
+        {
           "id": "generated.forgemod:blueprint-1.20.1-7.1.5:1.0.0@jar",
           "name": "blueprint-1.20.1-7.1.5",
           "type": "ForgeMod",
@@ -141,6 +152,39 @@
             "MD5": "f52f538207a4829d7060550092ce2383",
             "path": "mods/ferritecore-6.0.1-forge.jar",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-essentials-forge-2001.2.4:1.0.0@jar",
+          "name": "ftb-essentials-forge-2001.2.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 157732,
+            "MD5": "c46c0af33a0452001e8628075b341eb2",
+            "path": "mods/ftb-essentials-forge-2001.2.4.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-library-forge-2001.2.13:1.0.0@jar",
+          "name": "ftb-library-forge-2001.2.13",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 780558,
+            "MD5": "9de2c76938392445e735a98b352da9d4",
+            "path": "mods/ftb-library-forge-2001.2.13.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/ftb-library-forge-2001.2.13.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-teams-forge-2001.3.2:1.0.0@jar",
+          "name": "ftb-teams-forge-2001.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 252579,
+            "MD5": "1c547d6f1b22f461f84c5fb79067b0ec",
+            "path": "mods/ftb-teams-forge-2001.3.2.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/ftb-teams-forge-2001.3.2.jar"
           }
         },
         {
