@@ -375,6 +375,17 @@
           }
         },
         {
+          "id": "config/fancymenu/assets/download-removebg-preview.png",
+          "name": "download-removebg-preview.png",
+          "type": "File",
+          "artifact": {
+            "size": 626,
+            "MD5": "b0bfe729696e029a0d27e1971cbcf87c",
+            "path": "config/fancymenu/assets/download-removebg-preview.png",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/assets/download-removebg-preview.png"
+          }
+        },
+        {
           "id": "config/fancymenu/assets/entry.png",
           "name": "entry.png",
           "type": "File",
