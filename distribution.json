@@ -232,6 +232,17 @@
           }
         },
         {
+          "id": "generated.forgemod:jei-1.20.1-forge-15.74.0.234:1.0.0@jar",
+          "name": "jei-1.20.1-forge-15.74.0.234",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4805946,
+            "MD5": "1776262e184bcc5ec265b30987efa70f",
+            "path": "mods/jei-1.20.1-forge-15.74.0.234.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/jei-1.20.1-forge-15.74.0.234.jar"
+          }
+        },
+        {
           "id": "generated.forgemod:konkrete_forge_1.8.0_MC_1.20-1.20.1:1.0.0@jar",
           "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1",
           "type": "ForgeMod",
@@ -251,6 +262,17 @@
             "MD5": "6b528d368f7fcbf737df28f2457cdec6",
             "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mezz_config-1.20.1-forge-0.7.1:1.0.0@jar",
+          "name": "mezz_config-1.20.1-forge-0.7.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387068,
+            "MD5": "89d8d8f4b587c5a64cd9d2f5fab0dddd",
+            "path": "mods/mezz_config-1.20.1-forge-0.7.1.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/mezz_config-1.20.1-forge-0.7.1.jar"
           }
         },
         {
