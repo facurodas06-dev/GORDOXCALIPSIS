@@ -12,6 +12,17 @@
       "autoconnect": true,
       "modules": [
         {
+          "id": "generated.forgemod:alexscaves-2.0.2:1.0.0@jar",
+          "name": "alexscaves-2.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74871657,
+            "MD5": "6c8793ee5e1aa852fdb430a9cdaccdc5",
+            "path": "mods/alexscaves-2.0.2.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/alexscaves-2.0.2.jar"
+          }
+        },
+        {
           "id": "generated.forgemod:alexsmobs-1.22.9:1.0.0@jar",
           "name": "alexsmobs-1.22.9",
           "type": "ForgeMod",
@@ -196,6 +207,17 @@
             "MD5": "83c73bcbf5778235569025ed968dc3ec",
             "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Gobber2-Forge-1.20.1-2.8.9:1.0.0@jar",
+          "name": "Gobber2-Forge-1.20.1-2.8.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 567050,
+            "MD5": "f5c744aed3bf29c727c9d1090c4947bd",
+            "path": "mods/Gobber2-Forge-1.20.1-2.8.9.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/Gobber2-Forge-1.20.1-2.8.9.jar"
           }
         },
         {
