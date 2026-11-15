@@ -386,6 +386,39 @@
           }
         },
         {
+          "id": "generated.forgemod:YungsBetterEndIsland-1.20-Forge-2.0.6:1.0.0@jar",
+          "name": "YungsBetterEndIsland-1.20-Forge-2.0.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387111,
+            "MD5": "7f5ed661e5478668a91ea199fba75fb3",
+            "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterMineshafts-1.20-Forge-4.0.4:1.0.0@jar",
+          "name": "YungsBetterMineshafts-1.20-Forge-4.0.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 492998,
+            "MD5": "fe8d205c98cb02840d46646fb7cf5ab8",
+            "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterNetherFortresses-1.20-Forge-2.0.6:1.0.0@jar",
+          "name": "YungsBetterNetherFortresses-1.20-Forge-2.0.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 619255,
+            "MD5": "8f0011690923efb6e2d59514181f0bc9",
+            "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+          }
+        },
+        {
           "id": "generated.forgemod:YungsBetterStrongholds-1.20-Forge-4.0.3:1.0.0@jar",
           "name": "YungsBetterStrongholds-1.20-Forge-4.0.3",
           "type": "ForgeMod",
