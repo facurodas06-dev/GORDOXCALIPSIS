@@ -111,6 +111,17 @@
           }
         },
         {
+          "id": "generated.forgemod:curios-forge-5.14.1+1.20.1:1.0.0@jar",
+          "name": "curios-forge-5.14.1+1.20.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159",
+            "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/curios-forge-5.14.1%2B1.20.1.jar"
+          }
+        },
+        {
           "id": "generated.forgemod:embeddium-0.3.31+mc1.20.1:1.0.0@jar",
           "name": "embeddium-0.3.31+mc1.20.1",
           "type": "ForgeMod",
