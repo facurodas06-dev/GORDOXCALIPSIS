@@ -122,6 +122,17 @@
           }
         },
         {
+          "id": "generated.forgemod:ender_pack-merged-1.20.1-2.2.0:1.0.0@jar",
+          "name": "ender_pack-merged-1.20.1-2.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 232007,
+            "MD5": "b50ea64892339c7228453cae6505955e",
+            "path": "mods/ender_pack-merged-1.20.1-2.2.0.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/ender_pack-merged-1.20.1-2.2.0.jar"
+          }
+        },
+        {
           "id": "generated.forgemod:entity_model_features-3.3.12-1.20.1-forge:1.0.0@jar",
           "name": "entity_model_features-3.3.12-1.20.1-forge",
           "type": "ForgeMod",
@@ -284,6 +295,17 @@
             "MD5": "aa3de0c6a5d99b5f4b1e96242682238d",
             "path": "mods/modernfix-forge-5.27.92-mc1.20.1.jar",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/modernfix-forge-5.27.92-mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:monolib-forge-1.20.1-4.1.2:1.0.0@jar",
+          "name": "monolib-forge-1.20.1-4.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 195066,
+            "MD5": "9ba8acf93fb12f14d5c41eece0a72ed7",
+            "path": "mods/monolib-forge-1.20.1-4.1.2.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/monolib-forge-1.20.1-4.1.2.jar"
           }
         },
         {
