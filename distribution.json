@@ -643,8 +643,8 @@
           "name": "audio_element_controller_metas.json",
           "type": "File",
           "artifact": {
-            "size": 644,
-            "MD5": "a2f67cdc590402e55f54a9a2ae12b249",
+            "size": 751,
+            "MD5": "fc31bb0ef78703e7027d610bb27e58d7",
             "path": "config/fancymenu/audio_element_controller_metas.json",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/audio_element_controller_metas.json"
           }
@@ -665,8 +665,8 @@
           "name": "connect_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 5177,
-            "MD5": "23c95eedbdbf20b7550c985ceb76a1fb",
+            "size": 6353,
+            "MD5": "846f26ce147f7ecae3e0635d8a9df7aa",
             "path": "config/fancymenu/customization/connect_screen_layout.txt",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/connect_screen_layout.txt"
           }
@@ -786,8 +786,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1948,
-            "MD5": "5bedf1211143455c2433fa7b9f021220",
+            "size": 1949,
+            "MD5": "adf2aef641fd40a6bfde1e0866026610",
             "path": "config/fancymenu/options.txt",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/options.txt"
           }
