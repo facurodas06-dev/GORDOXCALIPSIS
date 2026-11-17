@@ -529,6 +529,17 @@
           }
         },
         {
+          "id": "config/fancymenu/assets/intro.ogg",
+          "name": "intro.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 2306404,
+            "MD5": "2fcb96d9ba5a92206dc24dbd5a4b8f4b",
+            "path": "config/fancymenu/assets/intro.ogg",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/assets/intro.ogg"
+          }
+        },
+        {
           "id": "config/fancymenu/assets/jugar.png",
           "name": "jugar.png",
           "type": "File",
@@ -606,14 +617,69 @@
           }
         },
         {
+          "id": "config/fancymenu/assets/troll.ogg",
+          "name": "troll.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 71383,
+            "MD5": "e8a21d5862d3fa3f327c635cca21a968",
+            "path": "config/fancymenu/assets/troll.ogg",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/assets/troll.ogg"
+          }
+        },
+        {
+          "id": "config/fancymenu/assets/trollvid.gif",
+          "name": "trollvid.gif",
+          "type": "File",
+          "artifact": {
+            "size": 7302242,
+            "MD5": "d1fb10047ca06435f2420c337b9cf8b7",
+            "path": "config/fancymenu/assets/trollvid.gif",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/assets/trollvid.gif"
+          }
+        },
+        {
+          "id": "config/fancymenu/audio_element_controller_metas.json",
+          "name": "audio_element_controller_metas.json",
+          "type": "File",
+          "artifact": {
+            "size": 644,
+            "MD5": "a2f67cdc590402e55f54a9a2ae12b249",
+            "path": "config/fancymenu/audio_element_controller_metas.json",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/audio_element_controller_metas.json"
+          }
+        },
+        {
           "id": "config/fancymenu/customizablemenus.txt",
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 255,
-            "MD5": "f3bbf9cf65918e3dde11143a91da55c3",
+            "size": 539,
+            "MD5": "678fa450ad43ab387ab920d43b319452",
             "path": "config/fancymenu/customizablemenus.txt",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/connect_screen_layout.txt",
+          "name": "connect_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5177,
+            "MD5": "23c95eedbdbf20b7550c985ceb76a1fb",
+            "path": "config/fancymenu/customization/connect_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/connect_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/generic_dirt_message_screen_layout.txt",
+          "name": "generic_dirt_message_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3118,
+            "MD5": "13008817226bc10c4977ec95c49b5f56",
+            "path": "config/fancymenu/customization/generic_dirt_message_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/generic_dirt_message_screen_layout.txt"
           }
         },
         {
@@ -622,9 +688,20 @@
           "type": "File",
           "artifact": {
             "size": 22125,
-            "MD5": "cc0040e0cf38acdf3335e06b74af3560",
+            "MD5": "ae28e152dcf9a90ee787aa75c3844a9e",
             "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/level_loading_screen_layout.txt",
+          "name": "level_loading_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5087,
+            "MD5": "450c0a791711ae0a12bb66fa3e2b9dbd",
+            "path": "config/fancymenu/customization/level_loading_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/level_loading_screen_layout.txt"
           }
         },
         {
@@ -639,12 +716,34 @@
           }
         },
         {
+          "id": "config/fancymenu/customization/progress_screen_layout.txt",
+          "name": "progress_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5069,
+            "MD5": "fa9d122876bd674d1254e0ac9f7290d4",
+            "path": "config/fancymenu/customization/progress_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/progress_screen_layout.txt"
+          }
+        },
+        {
+          "id": "config/fancymenu/customization/receiving_level_screen_layout.txt",
+          "name": "receiving_level_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3127,
+            "MD5": "1c467f9a8c7ccc451e18df4756b4c015",
+            "path": "config/fancymenu/customization/receiving_level_screen_layout.txt",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/receiving_level_screen_layout.txt"
+          }
+        },
+        {
           "id": "config/fancymenu/customization/title_screen_layout.txt",
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 30153,
-            "MD5": "0fcb80d5a59364414c0c460b9e5c447a",
+            "size": 31332,
+            "MD5": "5f3c27c91d3b8924a2d881596e9c724a",
             "path": "config/fancymenu/customization/title_screen_layout.txt",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt"
           }
@@ -688,7 +787,7 @@
           "type": "File",
           "artifact": {
             "size": 1948,
-            "MD5": "71966d9e811496531f04dc5f4c444b03",
+            "MD5": "5bedf1211143455c2433fa7b9f021220",
             "path": "config/fancymenu/options.txt",
             "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/files/config/fancymenu/options.txt"
           }
