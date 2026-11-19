@@ -331,6 +331,17 @@
           }
         },
         {
+          "id": "generated.forgemod:oculus-mc1.20.1-1.8.0:1.0.0@jar",
+          "name": "oculus-mc1.20.1-1.8.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "MD5": "1dd891634ac21591b5a692471f112572",
+            "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://raw.githubusercontent.com/facurodas06-dev/GORDOXCALIPSIS/main/servers/gordoxcalipsis-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar"
+          }
+        },
+        {
           "id": "generated.forgemod:Oreganized 1.20.1-4.3.2:1.0.0@jar",
           "name": "Oreganized 1.20.1-4.3.2",
           "type": "ForgeMod",
